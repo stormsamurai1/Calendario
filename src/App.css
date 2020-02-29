@@ -12,20 +12,5 @@ html,body, #root {
 body {
   background: #E5E6F0;
   -webkit-font-smoothing: antialised;
-
 }
 
-.calendario{
-  width: 700px;
-  height: 500px;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
-
-.dia{
-  width: 100px;
-  height: 100px;
-  border-style: solid;
-  border-width: 2px;
-}
