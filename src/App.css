@@ -10,6 +10,9 @@ html,body, #root {
 }
 
 body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   background: #E5E6F0;
   -webkit-font-smoothing: antialised;
 }

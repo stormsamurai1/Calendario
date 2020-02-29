@@ -1,0 +1,21 @@
+.tableBody{
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    width: 700;
+}
+
+.tableRow{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: 100px;
+    width: 700px;
+}
+
+.tableItem{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+}
